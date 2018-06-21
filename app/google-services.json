@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "304761919002",
+    "firebase_url": "https://mywallpapers-b24bd.firebaseio.com",
+    "project_id": "mywallpapers-b24bd",
+    "storage_bucket": "mywallpapers-b24bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304761919002:android:ea75c30bb7468fc1",
+        "android_client_info": {
+          "package_name": "com.tekbeast.mywallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304761919002-mrat4u4k9a66m5gv3n74ehvhgd455lvn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "304761919002-mrat4u4k9a66m5gv3n74ehvhgd455lvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNqasyBxK63vQSlv4wPU40TIVOjs5gTBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
